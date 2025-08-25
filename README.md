@@ -1,3 +1,19 @@
-Kod Bana Aittir Fakat Açık Kaynaklı Kod Olduğundan Dolayı Alıp Değişmenizde Sıkıntı Yoktur Belli Başlı Kodları Değişip Oyuna İsim Değişikliği Veya Mekanik Değişikliği Yapılabilir.
+# Esady Bird 🐦
 
-İletişim: mesadim6500@gmail.com
+C++ ile yazılmış basit bir terminal tabanlı oyun. Amacın, kuşu boruların arasından geçirip puan toplamaktır.Oyunu Geliştirmeye Devam Ediyorum Güncelleme Yapcağım.
+
+---
+
+## Kontroller
+
+- **Space** → Kuşu zıplatır  
+- **Ana Menüde 3 Tuşu İle** → Oyundan çıkış  
+
+---
+
+## Kurulum
+
+1. C++ derleyicisi ile kodu derle:
+
+```bash
+g++ esadybird.cpp -o EsadyBird.exe
